@@ -4,6 +4,7 @@
     {
         //Напишите программу, которая считает размер папки на диске (вместе со всеми вложенными папками и файлами).
         //На вход метод принимает URL директории, в ответ — размер в байтах.
+       
         static void Main(string[] args)
         {
             string dirPath = @"C:\Users\Алла\source\repos\Module8\Task2\FolderForTask2\TestFolder";
